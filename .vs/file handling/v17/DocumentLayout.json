@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\file handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F446BC5A-23A2-4F61-BE18-9EDC5E25EE12}|file handling\\file handling.csproj|c:\\users\\acer\\source\\repos\\file handling\\file handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446BC5A-23A2-4F61-BE18-9EDC5E25EE12}|file handling\\file handling.csproj|solutionrelative:file handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\file handling\\file handling\\Program.cs",
+              "RelativeDocumentMoniker": "file handling\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\file handling\\file handling\\Program.cs",
+              "RelativeToolTip": "file handling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:49:23.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
