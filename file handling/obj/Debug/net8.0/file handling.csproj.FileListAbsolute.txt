@@ -12,3 +12,4 @@ C:\Users\Acer\source\repos\file handling\file handling\obj\Debug\net8.0\refint\f
 C:\Users\Acer\source\repos\file handling\file handling\obj\Debug\net8.0\file handling.pdb
 C:\Users\Acer\source\repos\file handling\file handling\obj\Debug\net8.0\file handling.genruntimeconfig.cache
 C:\Users\Acer\source\repos\file handling\file handling\obj\Debug\net8.0\ref\file handling.dll
+C:\Users\Acer\source\repos\file handling\file handling\obj\Debug\net8.0\file handling.sourcelink.json
